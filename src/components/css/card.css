@@ -1,0 +1,19 @@
+.card {
+    text-align: center;
+    background-color: aliceblue;
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 25px 1px #000000;
+    display: inline-block;
+    padding: 20px 50px;
+    margin: 10px 20px;
+    width: 500px;
+}
+
+.green {
+    color: rgb(2, 230, 2)
+}
+
+.red {
+    color: red
+}
